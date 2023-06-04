@@ -28,3 +28,4 @@ git commit -m - комманда для сохрания версии файла
 
 https://github.com/DyadyaKomar/sem_03_06_23/blob/main/git.md "Вот ссылка"
 
+Вот
